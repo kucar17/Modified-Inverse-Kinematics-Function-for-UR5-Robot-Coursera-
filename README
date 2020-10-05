@@ -5,3 +5,6 @@ The function finally creates a .csv file which contains the calculated joint ang
 The .csv file can be used to inspect the Robot's motion in a Simulation software. 
 The project is executed as the Peer Graded Assignment of the Modern Robotics, Course 2: Robot Kinematics by Northwestern University, 
 part of Coursera's Modern Robotics: Mechanics, Planning, and Control Specialization.
+
+Example execution (Program calculates the Inverse Kinematics while showing each error-canceling steps):
+![Demonstration](https://i.ibb.co/RydFHfk/recording-2020-10-06-02-14-34.gif)
